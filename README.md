@@ -18,4 +18,4 @@ This is going to be the track of the daily excel learning
 - I also learn about various arthmatic operations also
 ## Day4
 - On the fourth day of my excel course I did an Assignment in which i use all the previous knowledge that i gather in the course i use it to make a expense tracker
-- 
+- ![Screenshot 2024-08-28 155750](https://github.com/user-attachments/assets/074ad12e-1fa1-4981-be93-74b4e803f097)
