@@ -2,7 +2,7 @@
 This is going to be the track of the daily excel learning
 ## Day1
 - In the first day of excel course i learn about the basics of excel 
-- On the very first day i study about the rows function and column fuction 
+- On the very first day i study about the rows function and column function 
 - On the same day i learn about table formation
 - I also learn about the basic functions that are used in excel 
 ## Day2
